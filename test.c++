@@ -5,7 +5,7 @@ int main()
 {
 
     cout <<  "I am a Dev" << endl;
-    cout << "Yes I am";
+    cout << "Done";
 
     return 0;
 }
